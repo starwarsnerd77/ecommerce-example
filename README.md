@@ -8,3 +8,11 @@ This is a generic example of how an e-commerce website could look. Designed with
 - Next.js
 - TailwindCSS
 - TypeScript
+
+### Testing instructions
+Run the following commands:
+
+    $ npm install
+    $ npm run dev
+
+Then go to http://localhost:3000
